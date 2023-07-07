@@ -11,5 +11,5 @@ Folgende Materialien stehen bereit:
 - Z1 WERDE DROHNENPILOT*IN: Übersetzungen der Codes auf deutsch
 - Z2 OZOBOT-OLYMPIADE: Vorlagen für die Robo-Puzzle-Party
 - Z3 ERZÄHLE EINE GESCHICHTE MIT SCATCHJR: Anleitungen und Aufgabenkarten
-- Z7: 3D-DRUCK - BASTELN MIT TINKERCAD: Tinkercad-Vorlagen
-- Z8: FIDGET-SPINNER-FACTORY: Plakat zum Workflow des 3D Drucks
+- Z7 3D-DRUCK - BASTELN MIT TINKERCAD: Tinkercad-Vorlagen
+- Z8 FIDGET-SPINNER-FACTORY: Plakat zum Workflow des 3D Drucks
